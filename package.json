@@ -1,0 +1,21 @@
+{
+  "name": "liri-node-app-master-4",
+  "version": "1.0.0",
+  "description": "liri app",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "author": "Steve Tucker",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "keys.js": "^1.0.2",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
